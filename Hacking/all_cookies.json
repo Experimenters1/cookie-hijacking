@@ -1,0 +1,155 @@
+{
+    "Profile 1": [
+        {
+            "domain": ".youtube.com",
+            "expiry": 1746974287,
+            "httpOnly": false,
+            "name": "PREF",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "tz=Asia.Bangkok"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1727966284,
+            "httpOnly": true,
+            "name": "VISITOR_PRIVACY_METADATA",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "CgJWThIEGgAgLw%3D%3D"
+        },
+        {
+            "domain": ".youtube.com",
+            "httpOnly": true,
+            "name": "YSC",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "UUdXAZjfhp0"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1727966284,
+            "httpOnly": true,
+            "name": "VISITOR_INFO1_LIVE",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "zohdpXWtxoE"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1712416084,
+            "httpOnly": true,
+            "name": "GPS",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1"
+        }
+    ],
+    "Profile 2": [
+        {
+            "domain": ".youtube.com",
+            "expiry": 1746974299,
+            "httpOnly": false,
+            "name": "PREF",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "tz=Asia.Bangkok"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1727966296,
+            "httpOnly": true,
+            "name": "VISITOR_PRIVACY_METADATA",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "CgJWThIEGgAgDQ%3D%3D"
+        },
+        {
+            "domain": ".youtube.com",
+            "httpOnly": true,
+            "name": "YSC",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "gSrnOKZBHCo"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1727966296,
+            "httpOnly": true,
+            "name": "VISITOR_INFO1_LIVE",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "nzUZDCD7eus"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1712416096,
+            "httpOnly": true,
+            "name": "GPS",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1"
+        }
+    ],
+    "Default": [
+        {
+            "domain": ".youtube.com",
+            "expiry": 1746974313,
+            "httpOnly": false,
+            "name": "PREF",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "tz=Asia.Bangkok"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1727966310,
+            "httpOnly": true,
+            "name": "VISITOR_PRIVACY_METADATA",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "CgJWThIEGgAgbg%3D%3D"
+        },
+        {
+            "domain": ".youtube.com",
+            "httpOnly": true,
+            "name": "YSC",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "pxTxX9tsLb8"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1727966310,
+            "httpOnly": true,
+            "name": "VISITOR_INFO1_LIVE",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "4j1kDwwf_4U"
+        },
+        {
+            "domain": ".youtube.com",
+            "expiry": 1712416110,
+            "httpOnly": true,
+            "name": "GPS",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1"
+        }
+    ]
+}
